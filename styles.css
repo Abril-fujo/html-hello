@@ -1,0 +1,42 @@
+body{
+background-color: grey
+}
+
+header{
+    background-color: white;
+    padding: 20px;
+}
+
+
+header h1{
+margin: 0;
+}
+
+div.primerafoto{
+    background-color: white;
+    margin-top: 50px;
+}
+
+div.primerafoto img{
+    width: 100%;
+}
+
+div.primerafoto p{
+    padding: 10px;
+}
+
+div.primerafoto .encabezadoprimerafoto div:first-child{
+    display: inline-block;
+    width: 80%;
+}
+
+div.primerafoto .encabezadoprimerafoto div:last-child {
+    display: inline-block;
+    width: 20%;
+    color: gray;
+}
+
+div.contenedor{
+    width: 700px;
+    margin: auto;
+}
